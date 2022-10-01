@@ -1,4 +1,8 @@
-### Hello there 👋
+### Hello there !
+
+🔭 I’m currently working on ...Django
+🌱 I’m currently learning ...Python / Html / css
+⚡ Fun fact: ...
 
 <!--
 **vere-t/vere-t** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
